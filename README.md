@@ -185,3 +185,14 @@ If you are not sure where to begin:
 - read a **cross-cutting brief** alongside a role-specific one  
 
 **The goal is not mastery — it is better judgement.**
+
+---
+
+## About CloudPedagogy
+
+CloudPedagogy develops open, governance-credible resources for building confident, responsible AI capability across education, research, and public service.
+
+- Website: https://www.cloudpedagogy.com/
+- Framework: https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework
+
+
