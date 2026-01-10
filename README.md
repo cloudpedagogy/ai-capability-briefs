@@ -142,30 +142,23 @@ If multiple briefs seem relevant, start with the one **closest to where you hold
 
 ---
 
-## Licence and reuse
+## 📜 Licence
 
-All briefs are released under a **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** licence.
+This repository is licensed under the
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.
 
-You may share and adapt the materials for non-commercial purposes, with attribution and under the same licence.
+You may:
+- Use, share, and adapt this work for educational, research, and public-interest purposes
+- Do so with appropriate attribution
+- Share adaptations under the same licence
 
-For commercial use or institutional partnerships, contact **CloudPedagogy**.
+You may not:
+- Use this work for commercial purposes
+- Resell, sublicense, or incorporate it into paid products, services, or platforms
+without explicit permission
 
----
-
-## About CloudPedagogy
-
-CloudPedagogy develops practical, ethical, and future-ready AI capability across education, research, public service, and professional practice.
-
-These briefs form part of a wider ecosystem that includes:
-
-- the **AI Capability Framework (2026 Edition)**  
-- application handbooks and practice guides  
-- courses and workshops  
-- future software and workflow tools  
-
-Learn more about the Framework and access related resources at:  
-https://www.cloudpedagogy.com/pages/ai-capability-framework
-
+Full licence text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 ---
 
 ## Citation
